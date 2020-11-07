@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactRechner.git/static/css/main.5dcff79f.chunk.css",
+    "main.js": "/ReactRechner.git/static/js/main.76f611bb.chunk.js",
+    "main.js.map": "/ReactRechner.git/static/js/main.76f611bb.chunk.js.map",
+    "runtime-main.js": "/ReactRechner.git/static/js/runtime-main.493ff77a.js",
+    "runtime-main.js.map": "/ReactRechner.git/static/js/runtime-main.493ff77a.js.map",
+    "static/js/2.6a8e6bd1.chunk.js": "/ReactRechner.git/static/js/2.6a8e6bd1.chunk.js",
+    "static/js/2.6a8e6bd1.chunk.js.map": "/ReactRechner.git/static/js/2.6a8e6bd1.chunk.js.map",
+    "static/js/3.7d084b62.chunk.js": "/ReactRechner.git/static/js/3.7d084b62.chunk.js",
+    "static/js/3.7d084b62.chunk.js.map": "/ReactRechner.git/static/js/3.7d084b62.chunk.js.map",
+    "index.html": "/ReactRechner.git/index.html",
+    "static/css/main.5dcff79f.chunk.css.map": "/ReactRechner.git/static/css/main.5dcff79f.chunk.css.map",
+    "static/js/2.6a8e6bd1.chunk.js.LICENSE.txt": "/ReactRechner.git/static/js/2.6a8e6bd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.493ff77a.js",
+    "static/js/2.6a8e6bd1.chunk.js",
+    "static/css/main.5dcff79f.chunk.css",
+    "static/js/main.76f611bb.chunk.js"
+  ]
+}
